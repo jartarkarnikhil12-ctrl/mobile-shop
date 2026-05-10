@@ -5,6 +5,8 @@ Project Overview
 TechMobile is a responsive mobile e-commerce website that displays smartphones and electronics products using an external API. The project includes product listing, categories, search, sorting, shopping cart functionality, and responsive UI design.
 Main Files
 index.html - Website structure including navbar, hero section, products, categories, cart modal, and footer. script.js - Handles API integration, search, sorting, cart logic, category filtering, and product modals. style.css - Contains custom styles, responsive design, animations, and layout customization.
+
+
 Core Features
 •	Product API Integration
 •	Dynamic Product Cards
@@ -28,12 +30,16 @@ Weak Points
 •	No authentication system
 •	No real checkout/payment gateway
 •	No database support
+
+
 Recommended Roadmap
 Phase 1: Frontend optimization
 Phase 2: Create Node.js backend
 Phase 3: Add real database
 Phase 4: Add authentication
 Phase 5: Integrate payment gateway Phase 6: Create admin dashboard
+
+
 Recommended Tech Stack
 Frontend: React / Next.js
 Backend: Node.js + Express
